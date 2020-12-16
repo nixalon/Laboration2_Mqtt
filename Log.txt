@@ -1,0 +1,40 @@
+16/10/2020-10:10:23: myLivingroom/mySquareMeter/myTemperature: 20
+16/10/2020-10:10:23: myLivingroom/mySquareMeter/myCompare: +
+16/10/2020-10:10:26: myLivingroom/mySquareMeter/myTemperature: 25
+16/10/2020-10:10:26: myLivingroom/mySquareMeter/myCompare: -
+16/10/2020-10:10:29: myLivingroom/mySquareMeter/myTemperature: 23
+16/10/2020-10:10:29: myLivingroom/mySquareMeter/myCompare: -
+16/10/2020-10:10:32: myLivingroom/mySquareMeter/myTemperature: 24
+16/10/2020-10:10:32: myLivingroom/mySquareMeter/myCompare: -
+16/10/2020-10:10:35: myLivingroom/mySquareMeter/myTemperature: 24
+16/10/2020-10:10:36: myLivingroom/mySquareMeter/myCompare: -
+16/10/2020-10:10:39: myLivingroom/mySquareMeter/myTemperature: 22
+16/10/2020-10:10:39: myLivingroom/mySquareMeter/myCompare: 
+16/10/2020-10:10:42: myLivingroom/mySquareMeter/myTemperature: 23
+16/10/2020-10:10:42: myLivingroom/mySquareMeter/myCompare: -
+16/10/2020-10:10:45: myLivingroom/mySquareMeter/myTemperature: 16
+16/10/2020-10:10:45: myLivingroom/mySquareMeter/myCompare: +
+16/10/2020-10:10:48: myLivingroom/mySquareMeter/myTemperature: 18
+16/10/2020-10:10:48: myLivingroom/mySquareMeter/myCompare: +
+16/10/2020-10:10:51: myLivingroom/mySquareMeter/myTemperature: 23
+16/10/2020-10:10:51: myLivingroom/mySquareMeter/myCompare: -
+16/10/2020-10:10:54: myLivingroom/mySquareMeter/myTemperature: 22
+16/10/2020-10:10:54: myLivingroom/mySquareMeter/myCompare: 
+16/10/2020-10:10:57: myLivingroom/mySquareMeter/myTemperature: 22
+16/10/2020-10:10:57: myLivingroom/mySquareMeter/myCompare: 
+16/11/2020-10:11:00: myLivingroom/mySquareMeter/myTemperature: 23
+16/11/2020-10:11:00: myLivingroom/mySquareMeter/myCompare: -
+16/11/2020-10:11:03: myLivingroom/mySquareMeter/myTemperature: 16
+16/11/2020-10:11:03: myLivingroom/mySquareMeter/myCompare: +
+16/11/2020-10:11:06: myLivingroom/mySquareMeter/myTemperature: 23
+16/11/2020-10:11:06: myLivingroom/mySquareMeter/myCompare: -
+16/11/2020-10:11:09: myLivingroom/mySquareMeter/myTemperature: 17
+16/11/2020-10:11:09: myLivingroom/mySquareMeter/myCompare: +
+16/11/2020-10:11:12: myLivingroom/mySquareMeter/myTemperature: 17
+16/11/2020-10:11:12: myLivingroom/mySquareMeter/myCompare: +
+16/11/2020-10:11:15: myLivingroom/mySquareMeter/myTemperature: 15
+16/11/2020-10:11:15: myLivingroom/mySquareMeter/myCompare: +
+16/11/2020-10:11:18: myLivingroom/mySquareMeter/myTemperature: 18
+16/11/2020-10:11:18: myLivingroom/mySquareMeter/myCompare: +
+16/11/2020-10:11:21: myLivingroom/mySquareMeter/myTemperature: 19
+16/11/2020-10:11:21: myLivingroom/mySquareMeter/myCompare: +
